@@ -7,11 +7,12 @@ Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 
 ### 🧠 PRINCIPAIS CONHECIMENTOS
 
+![PYTON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![HTML5](https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp;label=&amp;labelColor=555555&amp;logoColor=white)
 ![SQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
-![PYTON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ---
 
@@ -25,4 +26,4 @@ Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 
 ### ⚡ ANIMAÇÃO
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=#FFFFFF&width=435&lines=Marcos+Candeia!;Sou+desenvolvedor+em+formação.;Focado+em+C%2C+Python+SQL+e+HTML.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=#F5F5F5&width=435&lines=Marcos+Candeia!;Sou+desenvolvedor+em+formação.;Focado+em+C%2C+Python+SQL+e+HTML.)](https://git.io/typing-svg)
