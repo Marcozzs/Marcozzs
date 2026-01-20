@@ -1,7 +1,7 @@
 # Oi, eu sou o Marcos Candeia! 👋
 
 Graduando em **Análise e Desenvolvimento de Sistemas** pela Estácio de Sá (100% bolsista), cursando inglês intensivo e sempre em busca de oportunidades e novos conhecimentos.  
-Atualmente focado em **C**, **JavaScript** e **HTML**.
+Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 
 ---
 
@@ -10,6 +10,7 @@ Atualmente focado em **C**, **JavaScript** e **HTML**.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
 
 ---
 
