@@ -1,7 +1,7 @@
-# Oi, eu sou o Marcos Candeia! 👋
+# Marcos Candeia! 
 
-Graduando em **Análise e Desenvolvimento de Sistemas** pela Estácio de Sá (100% bolsista), cursando inglês intensivo e sempre em busca de oportunidades e novos conhecimentos.  
-Atualmente focado em **C**, **JavaScript**,  e **SQL**.
+Graduando em **Análise e Desenvolvimento de Sistemas** pela Estácio de Sá (100% bolsista), cursando inglês intensivo e sempre em busca de novos conhecimentos.  
+Atualmente focado em **C**, **JavaScript**, e **SQL**.
 
 ---
 
