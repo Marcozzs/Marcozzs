@@ -7,10 +7,10 @@ Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 
 ### 🧠 PRINCIPAIS CONHECIMENTOS
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![C](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![HTML5](https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp;label=&amp;labelColor=555555&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)
 ![PYTON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
