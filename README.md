@@ -10,7 +10,7 @@ Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ---
 
