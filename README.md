@@ -13,6 +13,13 @@ Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 ![HTML5](https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp;label=&amp;labelColor=555555&amp;logoColor=white)
 ![SQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
+---
+### FERRAMENTAS / SISTEMAS OPERARIONAIS
+
+![VSCODE](https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465)
+![GITHUB](https://camo.githubusercontent.com/7f0e8a6baecb909b9f947b74e4f89aaa25cf5b2d5273686747ff45d8b83bf8dd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562)
+![WINDOWS](https://camo.githubusercontent.com/58ad65602d32d7fe0ac97186e2e1a5409edf8840b1d6b44a6955b133f61d68de/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d77696e646f7773)
+
 
 ---
 
