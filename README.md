@@ -18,7 +18,7 @@ Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:candeiamarcos8@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvcandeia)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](+5521990962052)
+[![WhatsApp Badge](https://img.shields.io/badge/Whatsapp-brightgreen?style=for-the-badge)](+5521990962052)
 
 ---
 
