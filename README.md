@@ -25,4 +25,4 @@ Atualmente focado em **C**, **JavaScript**,  e **SQL**.
 
 ### ⚡ ANIMAÇÃO
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=00F7FF&width=435&lines=Marcos+Candeia!;Sou+desenvolvedor+em+formação.;Focado+em+C%2C+Python+SQL+e+HTML.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=#FFFFFF&width=435&lines=Marcos+Candeia!;Sou+desenvolvedor+em+formação.;Focado+em+C%2C+Python+SQL+e+HTML.)](https://git.io/typing-svg)
