@@ -12,7 +12,6 @@ Atualmente focado em **Python**, **Linux**, e **SQL**.
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![HTML5](https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp;label=&amp;labelColor=555555&amp;logoColor=white)
 ![SQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 ### FERRAMENTAS / SISTEMAS OPERARIONAIS
