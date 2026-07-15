@@ -76,10 +76,6 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
-  <a href="https://wa.me/5521990962052">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 </p>
 
 ---
@@ -90,3 +86,8 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 )
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:candeiamarcos8@gmail.com)
+
+ <a href="https://wa.me/5521990962052">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
