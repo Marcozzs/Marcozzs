@@ -1,36 +1,88 @@
-# Marcos Candeia! 
+<h1 align="center">Eu sou o Marcos !</h1>
 
-Graduando em **Análise e Desenvolvimento de Sistemas**, cursando inglês intensivo e sempre em busca de novos conhecimentos.  
-Atualmente focado em **Python**, **Linux**, e **SQL**.
-
----
-
-### 🧠 PRINCIPAIS CONHECIMENTOS
-
-![PYTON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![HTML5](https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp;label=&amp;labelColor=555555&amp;logoColor=white)
-![SQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
-
----
-### FERRAMENTAS / SISTEMAS OPERARIONAIS
-
-![VSCODE](https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465)
-![GITHUB](https://camo.githubusercontent.com/7f0e8a6baecb909b9f947b74e4f89aaa25cf5b2d5273686747ff45d8b83bf8dd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562)
-![WINDOWS](https://camo.githubusercontent.com/58ad65602d32d7fe0ac97186e2e1a5409edf8840b1d6b44a6955b133f61d68de/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d77696e646f7773)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScript/TypeScript, Node.js e bancos de dados relacionais.
+</p>
 
 ---
 
-### 📱 CONTATO
+## Sobre mim
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:candeiamarcos8@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvcandeia)
-[![WhatsApp Badge](https://img.shields.io/badge/Whatsapp-brightgreen?style=for-the-badge)](+5521990962052)
+-  Graduando em ADS
+-  Estudando Back-end diariamente
+-  Aprendendo Node.js, Express, PostgreSQL e Docker
+-  Conhecimentos em APIs REST, SQL e Git
+-  Inglês intensivo
 
 ---
 
-### ⚡ ANIMAÇÃO
+## Tecnologias
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Areal+Code&size=18&pause=150&color=FFFFFF&center=true&vCenter=true&width=700&lines=Marcos+Candeia,+desenvolvedor+em+formação.;Focado+em+C%2C+Python%2C+SQL+e+HTML)
+### Linguagens
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## Projetos em destaque
+
+🔹 API REST para E-commerce
+
+- Node.js
+- Express
+- Prisma ORM
+- PostgreSQL
+- JWT
+- Docker
+
+🔹 Sistema de Gestão Financeira
+
+- Node.js
+- PostgreSQL
+- Docker
+
+🔹 CRUD completo com autenticação
+
+- Express
+- Prisma
+- PostgreSQL
+
+---
+
+## Estatísticas
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/marcosvcandeia
+)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:candeiamarcos8@gmail.com)
