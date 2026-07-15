@@ -74,8 +74,8 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 ## Estatísticas
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcozzs&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozzs&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
