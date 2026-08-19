@@ -63,6 +63,13 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 - PostgreSQL
 - Docker
 
+🔹 Automação de Teste
+
+- Python
+- Playwright
+- Pytest
+- Page Object Model
+
 🔹 CRUD completo com autenticação
 
 - Express
