@@ -51,6 +51,9 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 Projeto desenvolvido em Python e FastAPI com o objetivo de praticar uma estrutura de backend mais organizada, saindo de scripts lineares e separando melhor as responsabilidades da aplicação. A API utiliza Redis e RQ para colocar tarefas mais pesadas em uma fila e processá-las em segundo plano através de um worker.
 https://github.com/Marcozzs/sistema-financeiro-app
 
+🔹 API de E-commerce
+Projeto em colaboração com um colega, para praticar gestão de usuários, catálogo de produtos e pedidos com Node.js, Express, PostgreSQL e Docker Compose. Repositório privado.
+
 🔹 Automação de Teste
 Projeto de automação de testes desenvolvido para validar os fluxos de login da página de demonstração Sauce Demo, utilizando o padrão Page Object Model (POM).
 https://github.com/Marcozzs/automacao_teste
