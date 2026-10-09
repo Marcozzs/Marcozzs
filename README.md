@@ -10,10 +10,9 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 ## Sobre mim
 
 -  Graduando em ADS
--  Estudando Back-end diariamente
 -  Aprendendo Node.js, Express, PostgreSQL e Docker
 -  Conhecimentos em APIs REST, SQL e Git
--  Inglês intensivo
+-  Inglês C1
 
 ---
 
@@ -48,40 +47,23 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 
 ## Projetos em destaque
 
-🔹 API REST para E-commerce
+🔹 API de Reltório Financeiro
+Projeto desenvolvido em Python e FastAPI com o objetivo de praticar uma estrutura de backend mais organizada, saindo de scripts lineares e separando melhor as responsabilidades da aplicação. A API utiliza Redis e RQ para colocar tarefas mais pesadas em uma fila e processá-las em segundo plano através de um worker.
+https://github.com/Marcozzs/sistema-financeiro-app
 
-- Node.js
-- Express
-- Prisma ORM
-- PostgreSQL
-- JWT
-- Docker
-
-🔹 Sistema de Gestão Financeira
-
-- Node.js
-- PostgreSQL
-- Docker
+🔹 TechStore Ecommerce
+Marketplace completo com três perfis de usuário — Cliente, Vendedor e Administrador — com pagamento (cartão, PIX e boleto), upload de fotos, avaliações de produtos e painéis de gestão. Interface clara com estética cyberpunk.
+https://github.com/Marcozzs/techstore-ecommerce
 
 🔹 Automação de Teste
-
-- Python
-- Playwright
-- Pytest
-- Page Object Model
-
-🔹 CRUD completo com autenticação
-
-- Express
-- Prisma
-- PostgreSQL
+Projeto de automação de testes desenvolvido para validar os fluxos de login da página de demonstração Sauce Demo, utilizando o padrão Page Object Model (POM).
+https://github.com/Marcozzs/automacao_teste
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/marcosvcandeia
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcosvcandeia/)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:candeiamarcos8@gmail.com)
 
