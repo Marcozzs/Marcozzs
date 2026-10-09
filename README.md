@@ -3,6 +3,7 @@
 <p align="center">
 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
 Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScript/TypeScript, Node.js e bancos de dados relacionais.
+</p>
 
 ---
 
