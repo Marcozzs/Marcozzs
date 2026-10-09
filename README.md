@@ -3,7 +3,6 @@
 <p align="center">
 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
 Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScript/TypeScript, Node.js e bancos de dados relacionais.
-</p>
 
 ---
 
@@ -47,7 +46,7 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 
 ## Projetos em destaque
 
-🔹 API de Reltório Financeiro
+🔹 API de Relatório Financeiro
 Projeto desenvolvido em Python e FastAPI com o objetivo de praticar uma estrutura de backend mais organizada, saindo de scripts lineares e separando melhor as responsabilidades da aplicação. A API utiliza Redis e RQ para colocar tarefas mais pesadas em uma fila e processá-las em segundo plano através de um worker.
 https://github.com/Marcozzs/sistema-financeiro-app
 
