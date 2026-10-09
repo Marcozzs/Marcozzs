@@ -12,7 +12,7 @@ Focado em desenvolvimento <strong>Back-end</strong> utilizando Python, JavaScrip
 -  Graduando em ADS
 -  Aprendendo Node.js, Express, PostgreSQL e Docker
 -  Conhecimentos em APIs REST, SQL e Git
--  Inglês C1
+-  Inglês B2
 
 ---
 
